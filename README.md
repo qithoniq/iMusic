@@ -36,7 +36,7 @@
 
 - API_lD =  احصل عليه من هنا https://my.telegram.org
 - API_HASH  =  احصل عليه من هنا https://my.telegram.org
-- STRING_SESSION  =  كود سيشن ميوس [اضغط هنا](https://replit.com/@ssdcv608/SessionGenerator)
+- STRING_SESSION  =  كود سيشن ميوس [اضغط هنا](https://replit.com/@ssdcv608/Babylonteam)
 - TG_BOT_TOKEN  =  اصنع بوت من بوت فاذر [اضغط هنا](https://t.me/botfather) وانسخ التوكن الخاص به
 - MONGO_DB_URI =  هنا قاعده البيانات 
 - LOG_GROUP_ID  =   ايدي مجموعة الحفظ
